@@ -1,3 +1,5 @@
 # ClubPenguinAPP-Decompiler
-Tool created to decompile MMF files from the mobile version of Club Penguin, but functional for Puffle Wild files and CJ Snow TPK files.
-With this tool you are able to extract 3D models from the mobile versions of Club Penguin,Puffle Wild and textures from Cj Snow.
+Tool created to decompile MMF files from CP APP & Puffle Wild and TPK files from Cj Snow.
+With this tool you are able to extract 3D models from cp app or puffle wild and get some textures (specially from cj snow).
+
+
