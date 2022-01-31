@@ -2,7 +2,7 @@
  * bkv-reader.c
  * This file is part of BKV Reader
  *
- * Copyright (C) 2020 - Félix Arreola Rodríguez
+ * Copyright (C) 2022 - Félix Arreola Rodríguez
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
