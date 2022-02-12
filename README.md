@@ -14,6 +14,6 @@ With this tool you are able to extract 3D models from CP APP and Puffle Wild.
 | Formats   | Support | Mesh | Animations|Textures|Rig| UV's|About
 | ---    | ---     | ---     | ---| ---|---| ---|---|
 | MMF| :white_check_mark:|:white_check_mark:| -|-|:x:|:x: |This format only contains 3d models
-| MMA| :white_check_mark:|:white_check_mark:|:x:|-|:x:|:x: |This format contains 3d models with animation
+| MMA| :white_check_mark:|:white_check_mark:|:x:|-|:x:|:x: |This format contains 3d models with animations
 
 **All 3D models are exported in .obj, so if you plan to improve, to export models with rig and animation, you need switch to fbx!**
